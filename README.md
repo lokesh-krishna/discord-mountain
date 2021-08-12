@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/55960554/128627327-32d86b66-502a-45e0-a907-57e5489c1a6d.png)
+A fork of the excellent [Discord-Serenade](https://github.com/b4skyx/discord-serenade), adapted to the colors of [Mountain](https://github.com/mountain-theme/Mountain).
+
 
 ---
 
